@@ -1,0 +1,7 @@
+name: Rapid Simulator
+displayName: Rapid Simulator
+author: FranticToaster
+description: simulates rapid gamemode
+version: 1
+minGameVersion: 159.7
+hidden: false
